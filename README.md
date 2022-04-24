@@ -1,5 +1,3 @@
-# Hello World
-
 # Overview
 
 Demonstrating the use of Github with Visual Studio Code by creating the Hello World program.
